@@ -1,2 +1,3 @@
-# intro-to-ml-workshop
-Materials for introduction to ML workshop
+# Introduction to Data Science and Analytics using `scikit-learn`
+
+
