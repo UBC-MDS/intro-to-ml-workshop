@@ -1,0 +1,22 @@
+# install with conda env create -f env-ml-workshop.yml
+name: 'ml-workshop'
+channels:
+  - conda-forge
+  - anaconda
+  - plotly
+  - defaults
+dependencies:
+  - ipykernel
+  - python=3.10
+  - scikit-learn  
+  - wordcloud
+  - imageio
+  - lightgbm
+  - plotly
+  - seaborn
+  - pip
+  - pip:
+      - otter-grader
+
+
+
