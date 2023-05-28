@@ -2,7 +2,7 @@
 
 This repository contains lecture notebooks and practice sets for introductory machine learning material.  
 
-## Instructions to access practice exercises 
+## Instructions for accessing practice exercises 
 - Go to https://pims.syzygy.ca/ and sign in. (You'll find the "sign in" option at the top right.)
 - Go to the root folder by clicking on the folder icon. ![](modules/img/syzygy-root-folder.png)<br><br><br>
 - Click on the Git clone icon.
