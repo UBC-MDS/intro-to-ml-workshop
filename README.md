@@ -9,4 +9,8 @@ This repository contains lecture notebooks and practice sets for introductory ma
 ![](modules/img/syzygy-git-clone.png)<br><br>
 - Paste the following GitHub repository URL in the "Enter the URL of the remote Git repository" box: https://github.com/UBC-MDS/intro-to-ml-workshop
 - Check the "Include submodules" option
-- You are all set! 
+- You are all set!
+
+## Feedback survey
+
+Please take 3 min to fill out the [feedback survey before going home](https://forms.gle/sXhX44Z4yoRS1KZ68). This helps us knowing if this type of workshop is useful in the future.
